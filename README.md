@@ -45,8 +45,6 @@ cp server/.env.example server/.env
 npm run dev
 ```
 
-- Client: http://localhost:5173
-- Server: http://localhost:3001
 
 ## Tech Stack
 
